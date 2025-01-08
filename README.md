@@ -13,6 +13,7 @@ Module 14,
 03_Ins_D3_Select
 05-Ins_Event_Listeners
 09-Ins_Dropdown_Events
+Copilot to check errors
 
 Class Resource:
 https://d3js.org/
